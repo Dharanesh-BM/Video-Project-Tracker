@@ -77,4 +77,4 @@ You can deploy this application to any modern hosting platform that supports Vit
 
 Make sure to configure your environment variables for production.
 
-🚀 Clicke here to view the live preview of the website : [Live preview](https://video-project-tracker.netlify.app/)
+🚀 Clicke here to view the live preview of the website : [Live preview Netlify](https://video-project-tracker.netlify.app/) | [Vercel](https://video-project-tracker.vercel.app/)
