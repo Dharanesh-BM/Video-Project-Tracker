@@ -34,7 +34,7 @@ This project is built with:
 
 ```sh
 # Step 1: Clone the repository
-git clone <YOUR_REPOSITORY_URL>
+git clone https://github.com/Dharanesh-BM/Video-Project-Tracker.git
 
 # Step 2: Navigate to the project directory
 cd video-project-tracker
@@ -76,3 +76,5 @@ You can deploy this application to any modern hosting platform that supports Vit
 - etc.
 
 Make sure to configure your environment variables for production.
+
+🚀 Clicke here to view the live preview of the website : [Live preview](https://video-project-tracker.netlify.app/)
